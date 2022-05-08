@@ -3,7 +3,7 @@ It involves setting up a simple python calculator that carries out simple math.
 
 ## Installation
 
-To gain acess to this application click on this link: https://github.com/BrianJomo/Password-Locker
+To gain acess to this application click on this link: https://github.com/BrianJomo/Python-Calculator
 
 ### Requirements
 
